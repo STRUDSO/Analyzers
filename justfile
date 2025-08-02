@@ -28,12 +28,11 @@ run:
     @echo "Running the application..."
 
 dotnet-init:
+    dotnet new globaljson
     dotnet new gitignore
     dotnet new editorconfig
-    dotnet new globaljson
     dotnet new tool-manifest
     dotnet tool install dotnet-file
 
-license:
-    @read -p "Enter license type (mit, apache-2.0, gpl-3.0, etc): " license
-    dotnet new license --license {{license}}
+license license_type:
+    dotnet new license --license {{license_type}}
