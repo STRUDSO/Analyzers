@@ -2,3 +2,105 @@
 	url = https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt
 	etag = 9d72687b50cae4984381dfa105f0f13dd70fcec5d28b5ca4be2ea01b7a5fed17
 	weak
+[file ".windsurf/processes"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/master/.windsurf/processes
+[file ".windsurf/processes/BashScripts.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/BashScripts.process.md
+	sha = e063f1d3bdad462588b5d184e6f29558170e2fb2
+	etag = 7aa3fb297c98e2a48e4885da4774876d4a094e4971e2815bf91549bd5b6a9d99
+	weak
+[file ".windsurf/processes/Scrubbers.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/Scrubbers.process.md
+	sha = e9a7c88a7564e4adf7af5c389655ae7f77f2c127
+	etag = 7901eaf17dad7bbdc0bac34d223f8e31aadef389be0d426f6b0eb9ca65902540
+	weak
+[file ".windsurf/processes/TDD.creating_tests.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.creating_tests.process.md
+	sha = b67fc55027ba869d7063ddcf6549341a15089eed
+	etag = 1b371667d1a669e3221afcb56241c318c0396b01f1c885a046db8c663c1d47a1
+	weak
+[file ".windsurf/processes/TDD.implement_production.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.implement_production.process.md
+	sha = 2cc25188067cbdf605a645f2e1d343a40bb3fe69
+	etag = dd190a8d1aa75060e0f91204fa5a6b8072d59ed7702fe60c98ed44b0805b166a
+	weak
+[file ".windsurf/processes/TDD.refactoring.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md
+	sha = 032ef3d918f9579362c0d6717ebb7e931351cbb1
+	etag = aefa7851d54d784010a5fe5be3d213f8f8d7eb601410146aa23c57e2f69caa38
+	weak
+[file ".windsurf/processes/UnitTestStyleGuide.process.md"]
+	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/UnitTestStyleGuide.process.md
+	sha = 5999eb07dd438cf881235150a9e683d150c760e3
+	etag = b5682da47a05b127fd5623962a9fe1e04a8ae4b3f2724fd6be4c84c67fab6780
+	weak
+[file ".github/copilot-instructions.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/copilot-instructions.md
+	etag = 708f1b7ab8b9efca712c5cbc8d229aaf3e126628ccf17138948680c13d6d3f93
+[file ""]
+	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/chatmodes
+	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/instructions
+	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/prompts
+[file ".github/chatmodes/Beast Mode 3.1.chatmode.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/Beast Mode 3.1.chatmode.md
+	etag = 19676b665bcbe91b6bb7764b21ae01302fc48129c0cf5994cc35aaf3070f9ee3
+[file ".github/chatmodes/plan.chatmode.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/plan.chatmode.md
+	etag = 03465aa9384f6079ae8d8a1c9d9ebc52da47b156793fc9a10de0abd48abbe58c
+[file ".github/chatmodes/research.chatmode.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/research.chatmode.md
+	etag = 6bbd986fce2e801605118bc29770dba554a085da63cbf5fcbaeff162c0676c4f
+[file ".github/instructions/4.1 Beast Mode.instructions.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/instructions/4.1 Beast Mode.instructions.md
+	etag = 711643e9a5980644ffcc3d22cb7adfd5806f9ee027bfe1fb426dbcb84c4856be
+[file ".github/instructions/Gilfoyle-style.instructions-fun.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/instructions/Gilfoyle-style.instructions-fun.md
+	etag = 6b84a8bb04c6383e0ee486668727fbdccc2f6c171a10de423144ed33eacaa6f8
+[file ".github/prompts/Code Issue Investigator.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/Code Issue Investigator.prompt.md
+	etag = 589c5956b926f6834151c8634956ca350f571771d0cb201a185786130ee44fd8
+[file ".github/prompts/The architect.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The architect.prompt.md
+	etag = 871f53ff8fa2f2104a7f0b2881e455be1d5275f8ec9cd1a477168cdd42665627
+[file ".github/prompts/The implementer.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The implementer.prompt.md
+	etag = 7d653e7556aea881ac8c6ababd7c881d999ddabfa73a21923a2d94d5298b268f
+[file ".github/prompts/The product manager.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The product manager.prompt.md
+	etag = bf05012d9df650e375d21051e161b177e798d15a9fad569c7c7552da33155efa
+[file ".github/prompts/api.implement.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.implement.prompt.md
+	etag = ed8e54a36ca0a79ec10934a2d6e3d3bef0ca061d65d9e9beda056aeefde9f80d
+[file ".github/prompts/api.planning.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.planning.prompt.md
+	etag = 6082d847550fcaff69fdf578559052d95a0adbaeb0be559877564f177757eb84
+[file ".github/prompts/api.reflection.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.reflection.prompt.md
+	etag = f5c74e83f07b3460ee9783ada14d4f03b906dfae33f448930c3f2734d2955423
+[file ".github/prompts/attachment-feature-update.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/attachment-feature-update.prompt.md
+	etag = 05c355ba2ae98ffd3d58c6810a965bb336b22aa0c3b5573896216e5a6d1bc755
+[file ".github/prompts/bc.implement.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/bc.implement.prompt.md
+	etag = a7bcc905c9ab62995efb9a28889585697284640a446c55662d579ec4a24b7b34
+[file ".github/prompts/copilot-prompt.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/copilot-prompt.prompt.md
+	etag = 76c92538035035750eea823bde211a0b29bf901f1d18f4b05f924075e06260ae
+[file ".github/prompts/create-attachment-readmodel.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/create-attachment-readmodel.prompt.md
+	etag = dc1c4cc6d612d0d9161e924545f19d372ff1ea08f81dc4f9d450cbe4d561a514
+[file ".github/prompts/enable-marten-soft-delete-attachments.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/enable-marten-soft-delete-attachments.prompt.md
+	etag = 7e484a983fdab02cad3b35c3b8c505159a095850f380ce92773728214e4d816d
+[file ".github/prompts/feature-planning.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/feature-planning.prompt.md
+	etag = 2acefdfa9b5e9d930565ebb7dc35e41c53cb926fbb82e3b1917e80b30b7b49b5
+[file ".github/prompts/planning.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/planning.prompt.md
+	etag = dea3c7c89a479956d60d93f3da224ec84ca9e2c2c246975912eb93495706a2f3
+[file ".github/prompts/refactor-attachments-module-for-flexible-entity-association.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/refactor-attachments-module-for-flexible-entity-association.prompt.md
+	etag = f17ef685f1370ad1bdae5a9f176c48d8ef61c95f8b8cdbcf30aff19f0548164b
+[file ".github/prompts/security_review.prompt.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/security_review.prompt.md
+	etag = f30cae336803a066dd9357333c872b930b88571c80fdb400971f737d5499e204
