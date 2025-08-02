@@ -1,16 +1,23 @@
 # License-related recipes for Analyzers project
 
+
+# Usage: just license-mit YEAR NAME
 [no-cd]
-license-mit:
-    # Fetch the MIT license file from GitHub's choosealicense.com
+license-mit year name:
+    # Fetch the MIT license file and replace placeholders
     dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt LICENSE
+    sed -i '' "s/\[year\]/{{year}}/g; s/\[fullname\]/{{name}}/g" LICENSE
 
+# Usage: just license-apache YEAR NAME
 [no-cd]
-license-apache:
-    # Fetch the Apache 2.0 license file from GitHub's choosealicense.com
+license-apache year name:
+    # Fetch the Apache 2.0 license file and replace placeholders
     dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/apache-2.0.txt LICENSE
+    sed -i '' "s/\[year\]/{{year}}/g; s/\[fullname\]/{{name}}/g" LICENSE
 
+# Usage: just license-gpl YEAR NAME
 [no-cd]
-license-gpl:
-    # Fetch the GPL-3.0 license file from GitHub's choosealicense.com
+license-gpl year name:
+    # Fetch the GPL-3.0 license file and replace placeholders
     dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/gpl-3.0.txt LICENSE
+    sed -i '' "s/\[year\]/{{year}}/g; s/\[fullname\]/{{name}}/g" LICENSE
