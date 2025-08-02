@@ -1,3 +1,23 @@
+## Learnings from August 2, 2025 Session
+
+### Handling .NET Initialization Issues
+- An empty `global.json` file will break all `dotnet new` commands. Always ensure `global.json` is either valid or absent before initializing a project.
+- If you encounter persistent errors about JSON parsing, check for empty or malformed config files early.
+
+### justfile Recipe Improvements
+- Recipes that require user input should use parameters, not shell prompts, as `just` does not support interactive input in recipes.
+- Example fix: Change `license:` recipe from using `read` to accepting a parameter, e.g., `license license_type:`.
+
+### Commit Notation
+- Use arlobee commit notation for clarity and consistency. Example: `[setup] Initialize dotnet project scaffolding and justfile improvements`.
+
+### General Workflow
+- If a setup step fails, check for hidden or empty files that may block initialization.
+- Automate as much as possible, but always verify that automation works in a clean environment.
+
+### Next Steps
+- After scaffolding, create a project (e.g., `dotnet new console -n MyApp`) before running `dotnet build`.
+- Continue to capture learnings and update documentation as the project evolves.
 # Learnings from .NET Project Initialization (August 2, 2025)
 
 ## Key Steps and Best Practices
