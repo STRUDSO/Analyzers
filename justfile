@@ -1,4 +1,6 @@
-# justfile for Analyzers project
+# justfile for license project
+mod license '.just/license'
+#
 # Add your recipes below. Example:
 # build:
 #     echo "Building project..."
@@ -34,5 +36,3 @@ dotnet-init:
     dotnet new tool-manifest
     dotnet tool install dotnet-file
 
-license license_type:
-    dotnet new license --license {{license_type}}

@@ -1,0 +1,16 @@
+# License-related recipes for Analyzers project
+
+[no-cd]
+license-mit:
+    # Fetch the MIT license file from GitHub's choosealicense.com
+    dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt LICENSE
+
+[no-cd]
+license-apache:
+    # Fetch the Apache 2.0 license file from GitHub's choosealicense.com
+    dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/apache-2.0.txt LICENSE
+
+[no-cd]
+license-gpl:
+    # Fetch the GPL-3.0 license file from GitHub's choosealicense.com
+    dotnet file add https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/gpl-3.0.txt LICENSE
