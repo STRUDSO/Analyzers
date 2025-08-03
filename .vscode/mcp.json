@@ -1,0 +1,75 @@
+{
+	"servers": {
+		"sequential-thinking": {
+			"command": "docker",
+			"args": [
+				"run",
+				"--rm",
+				"-i",
+				"mcp/sequentialthinking"
+			],
+			"type": "stdio"
+		},
+		"searxng": {
+			"command": "docker",
+			"args": [
+				"run",
+				"-i",
+				"--rm",
+				"-e",
+				"http://localhost/",
+				"isokoliuk/mcp-searxng:latest"
+			],
+			"env": {
+				"SEARXNG_URL": "Yhttp://localhost/"
+			}
+		},
+		"time": {
+			"command": "docker",
+			"args": [
+				"run",
+				"-i",
+				"--rm",
+				"-e",
+				"LOCAL_TIMEZONE",
+				"mcp/time"
+			]
+		},
+		"github": {
+			"command": "docker",
+			"args": [
+				"run",
+				"-i",
+				"--rm",
+				"-e",
+				"GITHUB_PERSONAL_ACCESS_TOKEN",
+				"ghcr.io/github/github-mcp-server"
+			],
+			"env": {
+				"GITHUB_PERSONAL_ACCESS_TOKEN": "${input:github_token}"
+			}
+		},
+		"playwright": {
+			"command": "npx",
+			"args": [
+				"-y",
+				"@executeautomation/playwright-mcp-server"
+			]
+		},
+		"fetch": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"mcp-server-fetch"
+			]
+		}
+	},
+	"inputs": [
+		{
+			"type": "promptString",
+			"id": "github_token",
+			"description": "GitHub Personal Access Token",
+			"password": true
+		}
+	]
+}
