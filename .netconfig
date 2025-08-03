@@ -84,8 +84,10 @@
 	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/bc.implement.prompt.md
 	etag = a7bcc905c9ab62995efb9a28889585697284640a446c55662d579ec4a24b7b34
 [file ".github/prompts/copilot-prompt.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/copilot-prompt.prompt.md
-	etag = 76c92538035035750eea823bde211a0b29bf901f1d18f4b05f924075e06260ae
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-prompt.prompt.md
+	etag = 9c25e795d935e00568ebe48bddde657913d1e39003563e2c33e55ab47b0eccd1
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	weak
 [file ".github/prompts/create-attachment-readmodel.prompt.md"]
 	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/create-attachment-readmodel.prompt.md
 	etag = dc1c4cc6d612d0d9161e924545f19d372ff1ea08f81dc4f9d450cbe4d561a514
@@ -104,3 +106,84 @@
 [file ".github/prompts/security_review.prompt.md"]
 	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/security_review.prompt.md
 	etag = f30cae336803a066dd9357333c872b930b88571c80fdb400971f737d5499e204
+[file ".github/prompts/"]
+	url = https://github.com/austenstone/.vscode/tree/main/prompts/
+[file ".github/prompts/ai-agent-copilot-instructions.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/ai-agent-copilot-instructions.prompt.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 752bdbdb2bf567d9d144d90ee7c679abd38e5633180d2873b9a1c32461809a1a
+	weak
+[file ".github/prompts/coding.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/coding.instructions.md
+	sha = a843fc379859dac885c08a4c493a703efc41cc6a
+	etag = 803d261de4deac006b922ca10beefb89ae17152bf7c74166dbb5f6b17f992b6e
+	weak
+[file ".github/prompts/copilot-customization.chatmode.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-customization.chatmode.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 69a23c76a881f0e4cc3d07463c54ce1b88f3630e4cb2352d0edd54fba1d0dce0
+	weak
+[file ".github/prompts/copilot-instructions.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-instructions.instructions.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 7b475dd69e1ba6b35aae0e2450deaa0bbd97a3d2ab4be3fae598a5b8aa84ded5
+	weak
+[file ".github/prompts/copilot-instructions.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-instructions.prompt.md
+	sha = a843fc379859dac885c08a4c493a703efc41cc6a
+	etag = 9700d60d416b748d28f66e3e30348dd95738f3a33e58670ff08cd1fbdc89562d
+	weak
+[file ".github/prompts/model-compare.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/model-compare.prompt.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 983f1953ebca3221a8798bff02b428539a2e26277a1517042524cef7050f9cbd
+	weak
+[file ".github/prompts/personal.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/personal.instructions.md
+	sha = a843fc379859dac885c08a4c493a703efc41cc6a
+	etag = d995e9d9928a3e42c4ce8f7757a7333ce8736fe362a346fd0be679b5df7a849c
+	weak
+[file ".github/prompts/plan.chatmode.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/plan.chatmode.md
+	sha = a843fc379859dac885c08a4c493a703efc41cc6a
+	etag = af58dc41d8027709ffec7528b57dbb09ee17c9995bd90d72396774cee36d17b4
+	weak
+[file ".github/prompts/plan.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/plan.prompt.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 61d48531dabf4f325e05b50f20a9c589b8d7d976e9fbd8cb736a817d1a39feb1
+	weak
+[file ".github/prompts/primary.toolsets.jsonc"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/primary.toolsets.jsonc
+	sha = a843fc379859dac885c08a4c493a703efc41cc6a
+	etag = 6f60baaace9817a1ebcfa1d731801693ea3851b8087bfc3ed4f94112b0578696
+	weak
+[file ".github/prompts/research.chatmode.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/research.chatmode.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = c897b7f002664eb87b7cc90ea78576e6b9556f6cfd8542e24fb05904ff2983d9
+	weak
+[file ".github/prompts/resume-review.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/resume-review.prompt.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 281c5d24d79b5561634934ed2cf7a63f6f6cad3f535c0dc59c4881c87f8097db
+	weak
+[file ".github/prompts/se.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/se.instructions.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = f98eec5f8b751a7a7ac91f1aae574f9416b440cf729880a41ce3ee35137d6a88
+	weak
+[file ".github/prompts/tools.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/tools.instructions.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 73e70fddf14f4e19a28b9038ef138d1354694f46a9eec9b0c43305579f220e1a
+	weak
+[file ".github/prompts/typescript.instructions.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/typescript.instructions.md
+	sha = 3e6587822658d96c2472f789bd4fdb1a1d7818ca
+	etag = 61c576a583ad7141b1d61b589fd2e471f712162553b669645c1a10ceebd992cc
+	weak
+[file ".github/chatmodes/beastmode3.1.chatmode.md"]
+	url = https://gist.githubusercontent.com/burkeholland/88af0249c4b6aff3820bf37898c8bacf/raw/f2bf4380b2dd886f1344544f8125c5ea10854a9c/beastmode3.1.chatmode.md
+	etag = 0737775124bd883a5fd50d01830a46fde3c10955e44de23400abe9d42d9e8f32
+	weak

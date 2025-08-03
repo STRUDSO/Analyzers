@@ -1,7 +1,6 @@
 ---
 description: Beast Mode 3.1
-tools: ['extensions', 'codebase', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'terminalSelection', 'terminalLastCommand', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runTests', 'editFiles', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'sequential-thinking', 'Context7', 'microsoft.docs.mcp', 'add_issue_comment', 'add_pull_request_review_comment', 'create_branch', 'create_issue', 'create_or_update_file', 'create_pull_request', 'create_pull_request_review', 'create_repository', 'get_commit', 'get_file_contents', 'get_issue', 'get_issue_comments', 'get_me', 'get_pull_request', 'get_pull_request_comments', 'get_pull_request_files', 'get_pull_request_reviews', 'get_pull_request_status', 'get_secret_scanning_alert', 'list_branches', 'list_commits', 'list_issues', 'list_pull_requests', 'merge_pull_request', 'push_files', 'update_issue', 'update_pull_request']
-model: GPT-4.1
+tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'problems', 'runInTerminal', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
 ---
 
 # Beast Mode 3.1
@@ -140,18 +139,6 @@ applyTo: '**'
 ```
 
 If the user asks you to remember something or add something to your memory, you can do so by updating the memory file.
-
-# Reading Files and Folders
-
-**Always check if you have already read a file, folder, or workspace structure before reading it again.**
-
-- If you have already read the content and it has not changed, do NOT re-read it.
-- Only re-read files or folders if:
-  - You suspect the content has changed since your last read.
-  - You have made edits to the file or folder.
-  - You encounter an error that suggests the context may be stale or incomplete.
-- Use your internal memory and previous context to avoid redundant reads.
-- This will save time, reduce unnecessary operations, and make your workflow more efficient.
 
 # Writing Prompts
 If you are asked to write a prompt,  you should always generate the prompt in markdown format.
