@@ -1,113 +1,6 @@
-[file "LICENSE"]
-	url = https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt
-	etag = 9d72687b50cae4984381dfa105f0f13dd70fcec5d28b5ca4be2ea01b7a5fed17
-	weak
-[file ".windsurf/processes"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/master/.windsurf/processes
-[file ".windsurf/processes/BashScripts.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/BashScripts.process.md
-	sha = e063f1d3bdad462588b5d184e6f29558170e2fb2
-	etag = 7aa3fb297c98e2a48e4885da4774876d4a094e4971e2815bf91549bd5b6a9d99
-	weak
-[file ".windsurf/processes/Scrubbers.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/Scrubbers.process.md
-	sha = e9a7c88a7564e4adf7af5c389655ae7f77f2c127
-	etag = 7901eaf17dad7bbdc0bac34d223f8e31aadef389be0d426f6b0eb9ca65902540
-	weak
-[file ".windsurf/processes/TDD.creating_tests.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.creating_tests.process.md
-	sha = b67fc55027ba869d7063ddcf6549341a15089eed
-	etag = 1b371667d1a669e3221afcb56241c318c0396b01f1c885a046db8c663c1d47a1
-	weak
-[file ".windsurf/processes/TDD.implement_production.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.implement_production.process.md
-	sha = 2cc25188067cbdf605a645f2e1d343a40bb3fe69
-	etag = dd190a8d1aa75060e0f91204fa5a6b8072d59ed7702fe60c98ed44b0805b166a
-	weak
-[file ".windsurf/processes/TDD.refactoring.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/TDD.refactoring.process.md
-	sha = 032ef3d918f9579362c0d6717ebb7e931351cbb1
-	etag = aefa7851d54d784010a5fe5be3d213f8f8d7eb601410146aa23c57e2f69caa38
-	weak
-[file ".windsurf/processes/UnitTestStyleGuide.process.md"]
-	url = https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/master/.windsurf/processes/UnitTestStyleGuide.process.md
-	sha = 5999eb07dd438cf881235150a9e683d150c760e3
-	etag = b5682da47a05b127fd5623962a9fe1e04a8ae4b3f2724fd6be4c84c67fab6780
-	weak
-[file ".github/copilot-instructions.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/copilot-instructions.md
-	etag = 708f1b7ab8b9efca712c5cbc8d229aaf3e126628ccf17138948680c13d6d3f93
-[file ""]
-	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/chatmodes
-	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/instructions
-	url = https://github.com/guidmaster/MjoMeet/tree/master/.github/prompts
-[file ".github/chatmodes/Beast Mode 3.1.chatmode.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/Beast Mode 3.1.chatmode.md
-	etag = 19676b665bcbe91b6bb7764b21ae01302fc48129c0cf5994cc35aaf3070f9ee3
-[file ".github/chatmodes/plan.chatmode.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/plan.chatmode.md
-	etag = 03465aa9384f6079ae8d8a1c9d9ebc52da47b156793fc9a10de0abd48abbe58c
-[file ".github/chatmodes/research.chatmode.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/research.chatmode.md
-	etag = 6bbd986fce2e801605118bc29770dba554a085da63cbf5fcbaeff162c0676c4f
-[file ".github/instructions/4.1 Beast Mode.instructions.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/instructions/4.1 Beast Mode.instructions.md
-	etag = 711643e9a5980644ffcc3d22cb7adfd5806f9ee027bfe1fb426dbcb84c4856be
-[file ".github/instructions/Gilfoyle-style.instructions-fun.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/instructions/Gilfoyle-style.instructions-fun.md
-	etag = 6b84a8bb04c6383e0ee486668727fbdccc2f6c171a10de423144ed33eacaa6f8
-[file ".github/prompts/Code Issue Investigator.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/Code Issue Investigator.prompt.md
-	etag = 589c5956b926f6834151c8634956ca350f571771d0cb201a185786130ee44fd8
-[file ".github/prompts/The architect.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The architect.prompt.md
-	etag = 871f53ff8fa2f2104a7f0b2881e455be1d5275f8ec9cd1a477168cdd42665627
-[file ".github/prompts/The implementer.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The implementer.prompt.md
-	etag = 7d653e7556aea881ac8c6ababd7c881d999ddabfa73a21923a2d94d5298b268f
-[file ".github/prompts/The product manager.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/The product manager.prompt.md
-	etag = bf05012d9df650e375d21051e161b177e798d15a9fad569c7c7552da33155efa
-[file ".github/prompts/api.implement.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.implement.prompt.md
-	etag = ed8e54a36ca0a79ec10934a2d6e3d3bef0ca061d65d9e9beda056aeefde9f80d
-[file ".github/prompts/api.planning.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.planning.prompt.md
-	etag = 6082d847550fcaff69fdf578559052d95a0adbaeb0be559877564f177757eb84
-[file ".github/prompts/api.reflection.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/api.reflection.prompt.md
-	etag = f5c74e83f07b3460ee9783ada14d4f03b906dfae33f448930c3f2734d2955423
-[file ".github/prompts/attachment-feature-update.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/attachment-feature-update.prompt.md
-	etag = 05c355ba2ae98ffd3d58c6810a965bb336b22aa0c3b5573896216e5a6d1bc755
-[file ".github/prompts/bc.implement.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/bc.implement.prompt.md
-	etag = a7bcc905c9ab62995efb9a28889585697284640a446c55662d579ec4a24b7b34
-[file ".github/prompts/copilot-prompt.prompt.md"]
-	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-prompt.prompt.md
-	etag = 9c25e795d935e00568ebe48bddde657913d1e39003563e2c33e55ab47b0eccd1
-	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
-	weak
-[file ".github/prompts/create-attachment-readmodel.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/create-attachment-readmodel.prompt.md
-	etag = dc1c4cc6d612d0d9161e924545f19d372ff1ea08f81dc4f9d450cbe4d561a514
-[file ".github/prompts/enable-marten-soft-delete-attachments.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/enable-marten-soft-delete-attachments.prompt.md
-	etag = 7e484a983fdab02cad3b35c3b8c505159a095850f380ce92773728214e4d816d
-[file ".github/prompts/feature-planning.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/feature-planning.prompt.md
-	etag = 2acefdfa9b5e9d930565ebb7dc35e41c53cb926fbb82e3b1917e80b30b7b49b5
-[file ".github/prompts/planning.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/planning.prompt.md
-	etag = dea3c7c89a479956d60d93f3da224ec84ca9e2c2c246975912eb93495706a2f3
-[file ".github/prompts/refactor-attachments-module-for-flexible-entity-association.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/refactor-attachments-module-for-flexible-entity-association.prompt.md
-	etag = f17ef685f1370ad1bdae5a9f176c48d8ef61c95f8b8cdbcf30aff19f0548164b
-[file ".github/prompts/security_review.prompt.md"]
-	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/prompts/security_review.prompt.md
-	etag = f30cae336803a066dd9357333c872b930b88571c80fdb400971f737d5499e204
 [file ".github/prompts/"]
 	url = https://github.com/austenstone/.vscode/tree/main/prompts/
+	url = https://github.com/github/awesome-copilot/tree/main/prompts/
 [file ".github/prompts/ai-agent-copilot-instructions.prompt.md"]
 	url = https://github.com/austenstone/.vscode/blob/main/prompts/ai-agent-copilot-instructions.prompt.md
 	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
@@ -132,6 +25,11 @@
 	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-instructions.prompt.md
 	sha = a843fc379859dac885c08a4c493a703efc41cc6a
 	etag = 9700d60d416b748d28f66e3e30348dd95738f3a33e58670ff08cd1fbdc89562d
+	weak
+[file ".github/prompts/copilot-prompt.prompt.md"]
+	url = https://github.com/austenstone/.vscode/blob/main/prompts/copilot-prompt.prompt.md
+	sha = be4e3cf5be3b85f8af7b5ed298e17e2041bb9594
+	etag = 9c25e795d935e00568ebe48bddde657913d1e39003563e2c33e55ab47b0eccd1
 	weak
 [file ".github/prompts/model-compare.prompt.md"]
 	url = https://github.com/austenstone/.vscode/blob/main/prompts/model-compare.prompt.md
@@ -183,7 +81,802 @@
 	sha = 3e6587822658d96c2472f789bd4fdb1a1d7818ca
 	etag = 61c576a583ad7141b1d61b589fd2e471f712162553b669645c1a10ceebd992cc
 	weak
-[file ".github/chatmodes/beastmode3.1.chatmode.md"]
-	url = https://gist.githubusercontent.com/burkeholland/88af0249c4b6aff3820bf37898c8bacf/raw/f2bf4380b2dd886f1344544f8125c5ea10854a9c/beastmode3.1.chatmode.md
-	etag = 0737775124bd883a5fd50d01830a46fde3c10955e44de23400abe9d42d9e8f32
+[file ".github/chatmodes/"]
+	url = https://github.com/github/awesome-copilot/tree/main/chatmodes/
+[file ".github/chatmodes/4.1-Beast.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/4.1-Beast.chatmode.md
+	sha = 1b06842be0d89550d85132df53c4230a8dcd9d9a
+	etag = 2d9e836d8793359ab5176b65836754d0fe89640e150219f879eb92c6c68b7b26
+	weak
+[file ".github/chatmodes/accesibility.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/accesibility.chatmode.md
+	sha = cdbf1c1923413da8ed57c4ce5a4e430c68c916e7
+	etag = 72e84e40c291654d5f796bb082c8251e7b12d43a54b19f709548f30ba4a15e18
+	weak
+[file ".github/chatmodes/api-architect.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/api-architect.chatmode.md
+	sha = 8a37c38789dd36a88ae53b3d000a22084332ad06
+	etag = 8776c77db17150c41ec7323063f3685585569a2e729acd846d89138db13d3d0b
+	weak
+[file ".github/chatmodes/azure-principal-architect.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/azure-principal-architect.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 17c28aee88df747e3f87ac4dcd92070c72e2ba68271dc19fc4722c1a516b6786
+	weak
+[file ".github/chatmodes/azure-saas-architect.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/azure-saas-architect.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 16668d6f319e3a423f691d9324c7fa1beba9d3b0bb5e4bf66bb0655a356fd10a
+	weak
+[file ".github/chatmodes/azure-verified-modules-bicep.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/azure-verified-modules-bicep.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = e7ba9458291a9214d365ca4b86ddac8ff3158a74c3c9e7ca87a1740cdd43b0ee
+	weak
+[file ".github/chatmodes/azure-verified-modules-terraform.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/azure-verified-modules-terraform.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 70ad834e86d1bd5bdaf82e94fb38544f04dba505031aad887401a253d5cd3174
+	weak
+[file ".github/chatmodes/blueprint-mode.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/blueprint-mode.chatmode.md
+	sha = 072639f7e3e0066bd85f826df8adf53c620730dd
+	etag = afdbd9dca228bd17893777e47ee98eee34f2ad9f969c0c8ccee2c23f322bb457
+	weak
+[file ".github/chatmodes/clojure-interactive-programming.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/clojure-interactive-programming.chatmode.md
+	sha = 0e31a967296ff9d5e9e6a323f7683f922e86d853
+	etag = 3b5fc2810b584da97ff8ddacd10dde289beffcc821f54dc0dac0e981da2e82f7
+	weak
+[file ".github/chatmodes/critical-thinking.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/critical-thinking.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 2af44cda27de37680632058aebcb7f13c5077db96afef7c151ebec3fe5e604e8
+	weak
+[file ".github/chatmodes/csharp-dotnet-janitor.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/csharp-dotnet-janitor.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 7c5147ea4044c489e03ca42e511b99d5bebf1caa87bc2527418020957b7fcd65
+	weak
+[file ".github/chatmodes/debug.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/debug.chatmode.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = ee54881bd38570a39a1d4379d22beb47142d29f1260496357eb27394d2963183
+	weak
+[file ".github/chatmodes/demonstrate-understanding.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/demonstrate-understanding.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = b2cc0833244ddedab2e46dc6deea88d675e6d65767e427ee9967bc748ab92ec2
+	weak
+[file ".github/chatmodes/electron-angular-native.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/electron-angular-native.chatmode.md
+	sha = dac2a94284875a46cfe7881213da5b19b4fa862e
+	etag = 96035a53626cc8070ffdc54bfe52ec12ed2567318e358dd6e0985259c2555d42
+	weak
+[file ".github/chatmodes/expert-dotnet-software-engineer.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/expert-dotnet-software-engineer.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = c37769946555f03969b78d5777fe46e9f27b478b78f79555574080dca19ce506
+	weak
+[file ".github/chatmodes/expert-react-frontend-engineer.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/expert-react-frontend-engineer.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 31a344578461b3628b7330e8a2b885093e684bdca4f60b51e2cedf4d36e5da07
+	weak
+[file ".github/chatmodes/gilfoyle.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/gilfoyle.chatmode.md
+	sha = be30dcf2ff0307eb0cd7e964e60c8a4be87f79cb
+	etag = bcf4ea9efdbe407d42a05a74f819b44cbf333597f4feb1789a2613b8568a26f8
+	weak
+[file ".github/chatmodes/implementation-plan.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/implementation-plan.chatmode.md
+	sha = 647a2b43c393b975d1312be15965dfd0f5b8da98
+	etag = c52c4db9bed8f1df1ae3f4ac7d2060eb277549fcd8e0bc5a6f5aa36326893476
+	weak
+[file ".github/chatmodes/janitor.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/janitor.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 4e3ae2970369ed0ac58be2703217d55b51810421b23ccb6aa48247d8d2ba9915
+	weak
+[file ".github/chatmodes/mentor.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/mentor.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = a22bfd558c230d958e8496a1efb80db7154b6f246d6e67e6fa54f4d64d0136bf
+	weak
+[file ".github/chatmodes/meta-agentic-project-scaffold.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/meta-agentic-project-scaffold.chatmode.md
+	sha = 8c1a411806e0e8d8d4d566ec840adbb5698d021d
+	etag = 309b793e0bf089d9f330c9b70bf93b30ebffe4ea102e6f054b1af55fe5661831
+	weak
+[file ".github/chatmodes/microsoft-study-mode.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/microsoft-study-mode.chatmode.md
+	sha = 43579c939e7cd810c4e6b82dec0b1379eeb10397
+	etag = 2723a2acbf692e03bdecf458274f7f9965d8983c0a938c3fac3d80dc3143b2b0
+	weak
+[file ".github/chatmodes/microsoft_learn_contributor.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/microsoft_learn_contributor.chatmode.md
+	sha = 5d42f2021a5156b9c9e83a6ea48acb4493ccfed9
+	etag = 47c44929fd15f713154f07fd6454fd39cf249061c2307944923fc6ec9ef25beb
+	weak
+[file ".github/chatmodes/ms-sql-dba.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/ms-sql-dba.chatmode.md
+	sha = c983292741e91ea72d844411b42a05e1022219b9
+	etag = a74fdf2fa3b4380cc7a77b38722265f23f120f518903d7609c397503fad91989
+	weak
+[file ".github/chatmodes/plan.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/plan.chatmode.md
+	sha = 32589ba72c2f094bce7ee3a6bddff93250d6c3a6
+	etag = 823d2d5ef460f564fa9026c5f30836a1f7ba220fa9698c1def6e39ae2537b008
+	weak
+[file ".github/chatmodes/planner.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/planner.chatmode.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = c33ea943bc4bfb6d85aa32aa4afb774fa29066a099661a368dcab72878c8164e
+	weak
+[file ".github/chatmodes/playwright-tester.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/playwright-tester.chatmode.md
+	sha = edb5e169222b84f39924dd401fea65293e84601c
+	etag = 8775bddd2da6e9cf0a316a219edfa9870b750342ee9df584247b6648af4353c3
+	weak
+[file ".github/chatmodes/postgresql-dba.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/postgresql-dba.chatmode.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = cb9cf12098f2fb43b56e63c952912f97d582504b7157c3bf1868a05264cc5704
+	weak
+[file ".github/chatmodes/prd.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/prd.chatmode.md
+	sha = 6ee517a9b4c3899325ce0aedf5366408cf3fc9d5
+	etag = 9a71828ece99279c2e68b05141bcccf4a4e5c321aed360f97fbcf6a38411f85c
+	weak
+[file ".github/chatmodes/principal-software-engineer.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/principal-software-engineer.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 3433492533f77d19b3d1fdf31f8e2d0e793c8bc3e365cd45b960af6772388aee
+	weak
+[file ".github/chatmodes/prompt-engineer.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/prompt-engineer.chatmode.md
+	sha = 23e3d3a51eb996a10074569e7ba88dfe10add807
+	etag = 5be1ac652e300cde1794ab62938db0fff6e46a8fcaa1232fdc0c6891ff9ed6b1
+	weak
+[file ".github/chatmodes/refine-issue.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/refine-issue.chatmode.md
+	sha = f077b5b15da77ee24fc9feef81b371cda614fa94
+	etag = 96360125f70cd9bd3f55b83649fbd047b2bb2e67d0cb4413c95c237ad9fdafbb
+	weak
+[file ".github/chatmodes/rust-gpt-4.1-beast-mode.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/rust-gpt-4.1-beast-mode.chatmode.md
+	sha = f505de62c89687299df3239be7d888cbc358b9bc
+	etag = 0f5e87fec9040fff82825214cf1bbf3c6a5d88d9dbdfb7a23dda4a10a10356aa
+	weak
+[file ".github/chatmodes/semantic-kernel-dotnet.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/semantic-kernel-dotnet.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 8c00877a449521675cf31c6a6696e4c72476fc5b110866b67fa7672fe419df7a
+	weak
+[file ".github/chatmodes/semantic-kernel-python.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/semantic-kernel-python.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = c49c8739477ec3efd7ddfacbd89667b0e77b1f60eb45c772040273231b64943b
+	weak
+[file ".github/chatmodes/simple-app-idea-generator.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/simple-app-idea-generator.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = ed7c26b03c1934cf6e9c523967708a25217c80c7b20701ee057e882829f2f318
+	weak
+[file ".github/chatmodes/software-engineer-agent-v1.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/software-engineer-agent-v1.chatmode.md
+	sha = 7c5d96e5811e5e3988db534e9b98dca0d112d119
+	etag = 2e76a126f76a3ec70a7a8a2ef3a2180f9e864815ff2dddec5d9ff55a4ad73bbc
+	weak
+[file ".github/chatmodes/specification.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/specification.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = 07d29f86cf77b376e736e6e211855787e377205c0e24de97bddb138b5ee2d346
+	weak
+[file ".github/chatmodes/tdd-green.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/tdd-green.chatmode.md
+	sha = 2587ec19de75d1e1a3304a80487e4a1822e8d85c
+	etag = e18951cb6371d5e09fc21ce58e2fb14c56db633fa68b2200253b58ee1b6b4be2
+	weak
+[file ".github/chatmodes/tdd-red.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/tdd-red.chatmode.md
+	sha = 2587ec19de75d1e1a3304a80487e4a1822e8d85c
+	etag = 71e0a16eaf3c297a6ecd6da647d0baef9c41ca13fa236db692ff08917c6e131d
+	weak
+[file ".github/chatmodes/tdd-refactor.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/tdd-refactor.chatmode.md
+	sha = 2587ec19de75d1e1a3304a80487e4a1822e8d85c
+	etag = 51f52ad35fa6051cf82495262536eaec56124af3d827296ecf1fd156093750e3
+	weak
+[file ".github/chatmodes/tech-debt-remediation-plan.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/tech-debt-remediation-plan.chatmode.md
+	sha = 6e667fc3faa3746bdfa222ca30e0fc4e912026f4
+	etag = d637a33fbe9665ff5084e663f97726a1eaa8e55def859c602740e86b2604b5f8
+	weak
+[file ".github/chatmodes/voidbeast-gpt41enhanced.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/voidbeast-gpt41enhanced.chatmode.md
+	sha = ceead13222b0bbbe9ca2a06a4469efe4e115fc3e
+	etag = 84637607058ab083f6759df25bb9aecadf60b4d541b380b56cd09d0ba8886daf
+	weak
+[file ".github/chatmodes/wg-code-alchemist.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/wg-code-alchemist.chatmode.md
+	sha = 9c5fcef42550954e3f81fd7c7f2fc0c3b960d0a9
+	etag = bcb75c52adbeac3e35c8ae988277b1c8c37adfd8995013be13955c52f19d3732
+	weak
+[file ".github/chatmodes/wg-code-sentinel.chatmode.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/wg-code-sentinel.chatmode.md
+	sha = 9c5fcef42550954e3f81fd7c7f2fc0c3b960d0a9
+	etag = bf7344eac286c7a387905ca1e054cead298694d5233dbb4ccda900e4af50ceae
+	weak
+[file ".github/instructions/"]
+	url = https://github.com/github/awesome-copilot/tree/main/instructions/
+[file ".github/instructions/ai-prompt-engineering-safety-best-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/ai-prompt-engineering-safety-best-practices.instructions.md
+	sha = c321e2a0a205e05fa42d5a5b7c22d88af32665b8
+	etag = e4fde3d3c99a60911a17edcac48d874b0eedbb2510c70d4720aa5ab93c004849
+	weak
+[file ".github/instructions/angular.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/angular.instructions.md
+	sha = e3509d12643f8fe4113b094225529eca8f065ce7
+	etag = 2d3477607022c03a108b8045a622af7d0e6d18fd0c9b91681c68e1f0f463e01c
+	weak
+[file ".github/instructions/aspnet-rest-apis.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/aspnet-rest-apis.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 0dc564b23b850633aaa1a6460c46e3ea3109b84f2026c23b5b17a0e4c68e567a
+	weak
+[file ".github/instructions/azure-functions-typescript.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/azure-functions-typescript.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = e71a4880da6f2b7011b50b9435b91d11c5004044dbcf84fc2478a3491a8ffa0c
+	weak
+[file ".github/instructions/bicep-code-best-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/bicep-code-best-practices.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 44f56ed30c9901c1489d2f875124151bda2ea54e67d767e88a7320af4c4c2a47
+	weak
+[file ".github/instructions/blazor.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/blazor.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = a4271231ca48c35106c150d7bcf62fbef4ef537335936c2c4a365dbb403870f4
+	weak
+[file ".github/instructions/cmake-vcpkg.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/cmake-vcpkg.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 69305b265e74107f5808689f6837a0c497b9177cee84076f6ebbf1e62db9727b
+	weak
+[file ".github/instructions/containerization-docker-best-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/containerization-docker-best-practices.instructions.md
+	sha = aa189fdaabc54bdfb247278eb9dd7217fd0aeaf9
+	etag = a3ba11632b2b6a60d39795f8275f15d35e8d1b18ba6443bb71a2562085cef6c5
+	weak
+[file ".github/instructions/conventional-commit.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/conventional-commit.prompt.md
+	sha = 3ef71171515a0f9a826d4677fbecf6810642f54a
+	etag = 410028a7bba6fe0b8513748a8470a732fb30d4c80450366acdc99e2c145ab789
+	weak
+[file ".github/instructions/copilot-thought-logging.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/copilot-thought-logging.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 62b3f525f95df3b14a888882c103f00bf23d63ee850b71a9f08bf946eaeb9575
+	weak
+[file ".github/instructions/csharp.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/csharp.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = bfa5d77aaddb97eefe4c2b44f8cbdf471fa61a4b981e3e473f2a0ef86ea80f7c
+	weak
+[file ".github/instructions/devops-core-principles.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/devops-core-principles.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = b66f18039d29337fd0554fe67bbf53b2e6a1b157d1eb9dbe37d7d4eda9efbabe
+	weak
+[file ".github/instructions/dotnet-architecture-good-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/dotnet-architecture-good-practices.instructions.md
+	sha = f24139a25ebbb1d8b2cb219f3733410b6f5a7dd2
+	etag = ecfa04a82a92f7fb9e54e37bf47f78cb2d0824746bdd222e5d89a60df26f6c62
+	weak
+[file ".github/instructions/dotnet-maui.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/dotnet-maui.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 3f8a6e8505d6cf5ddb1d4a99405cf31744fcd61388a0abc0a2bed5dc4e49115a
+	weak
+[file ".github/instructions/dotnet-wpf.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/dotnet-wpf.instructions.md
+	sha = b0f671d072b75261e909062d6cc38acc47d1d934
+	etag = ce940a30ccf669a7b69d5a4b5fa9b4a82c20f25ba44a72256f04c97b1586c967
+	weak
+[file ".github/instructions/genaiscript.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/genaiscript.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 07e9f9d754fb0c5de8768503aea90287b2e15a9077241d003d23b14c87758f14
+	weak
+[file ".github/instructions/generate-modern-terraform-code-for-azure.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/generate-modern-terraform-code-for-azure.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = eb3ff0c62a73b0a28a73a04e54686d569dd0a24591cfee112c1b397d7f0b59d2
+	weak
+[file ".github/instructions/gilfoyle-code-review.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/gilfoyle-code-review.instructions.md
+	sha = db0d47413aa86db2b8dde9a5a039d1835df2bf8e
+	etag = 7a75367719169c6f318b78592d53a3340440cc6452dfd82b135f91722896221e
+	weak
+[file ".github/instructions/github-actions-ci-cd-best-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/github-actions-ci-cd-best-practices.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = 76eda54a8f9471473c640700c40043494604374268362f8301839910eea47677
+	weak
+[file ".github/instructions/go.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/go.instructions.md
+	sha = 4ab31cdc316e8d9851e30209a7a2f018aad2a653
+	etag = bbf9e2e47867d7b152d74a6818ab4425e8a92b88d8228df35be09ec90eda2c49
+	weak
+[file ".github/instructions/java.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/java.instructions.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = bedf7092b807d1cd3dfea372ade0fa9720e68ffa28327cc2c8f257c1bdcfd8a7
+	weak
+[file ".github/instructions/joyride-user-project.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/joyride-user-project.instructions.md
+	sha = b46a12821ecb958a0fe5da6d515d3a78b3417e10
+	etag = 147e23fe57bd01256844e4c76943b36e88578ac70cc5a9ad9ddcdee971afbd63
+	weak
+[file ".github/instructions/joyride-workspace-automation.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/joyride-workspace-automation.instructions.md
+	sha = b46a12821ecb958a0fe5da6d515d3a78b3417e10
+	etag = 216e4cb85c371dfed52ab5fde05e5e984eeb67c29a6a32c6bb61127dce954b6a
+	weak
+[file ".github/instructions/kubernetes-deployment-best-practices.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/kubernetes-deployment-best-practices.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = 22735010ef54fc43772c0a2cd223febaa70305da85389759f55f4d13b8b70212
+	weak
+[file ".github/instructions/localization.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/localization.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = fb276098f20fce3f07aca4d4edd852560e281c0aa3a2e3f3d623bdebccf371f3
+	weak
+[file ".github/instructions/markdown.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/markdown.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 5a34e97f37f102b60c6333c75e2dccb0d3f12471924cc090964869fc3fa96258
+	weak
+[file ".github/instructions/memory-bank.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/memory-bank.instructions.md
+	sha = 55bee93cc7ee6a18807e20d9870735c361e0f87b
+	etag = 0b93cdf5671555b0f27b6c9a0bb3567f67191017320d679761d60263777f48ec
+	weak
+[file ".github/instructions/ms-sql-dba.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/ms-sql-dba.instructions.md
+	sha = c983292741e91ea72d844411b42a05e1022219b9
+	etag = 79717d805a6d956d275c9606a71ab01e5c75377e310dd2483e199fd5958941f6
+	weak
+[file ".github/instructions/nestjs.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/nestjs.instructions.md
+	sha = b1fc557c07d2a12045c17aee58ef456efb915411
+	etag = c039345e7f66335fd20f5d35ec8171b1a7debfea944c99d9c31cebdce1e3796c
+	weak
+[file ".github/instructions/nextjs-tailwind.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/nextjs-tailwind.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = d02e880c654810a61e3d4f6d7ca2ae0187b9f87e4976d7438ed5c2c77d42f449
+	weak
+[file ".github/instructions/nextjs.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/nextjs.instructions.md
+	sha = c16f4786f0bae8c6bcd11f0f14f0ea9574ab0421
+	etag = f33026bb4ed3d2cc681c0f12513439629a5501da6a525b77df9f100b83f94d82
+	weak
+[file ".github/instructions/nodejs-javascript-vitest.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/nodejs-javascript-vitest.instructions.md
+	sha = 8642ad46b32cd0463a2e4a86a8c94f803c98255e
+	etag = 540f3ffdae2e1985316f9dd3eacb9da98515b91c2549d8cc57bccade98eabf5d
+	weak
+[file ".github/instructions/object-calisthenics.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/object-calisthenics.instructions.md
+	sha = 28f264a5c541ab54bd44d701469320a1abd2376c
+	etag = df6e3e7b3d4750cc381b8d21c1ea502c16f0a6a84f97827cedf2a02585611406
+	weak
+[file ".github/instructions/performance-optimization.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/performance-optimization.instructions.md
+	sha = 45e56350da7d84dddbf628452180d9b083df232e
+	etag = 6332cdab6e9be932b678c2a97cb82c3fbaeb1018138b489daf38b5ffd31938dc
+	weak
+[file ".github/instructions/playwright-typescript.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/playwright-typescript.instructions.md
+	sha = 950329511e830b918ecb37b376333b7d1b06e67f
+	etag = afbb1ba5b8851681dd57e0575f8508e028aa2b3a32a6c4565fad14ea9c32efff
+	weak
+[file ".github/instructions/power-platform-connector.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/power-platform-connector.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = f62f53849dbad7eaa67cc6956742b20dc910e58422f15395940c84232200b1d3
+	weak
+[file ".github/instructions/powershell-pester-5.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/powershell-pester-5.instructions.md
+	sha = 82d6efe37cac638299d01917d189a9bce7210562
+	etag = fceb763384b89a829af90e41315d0fc3f80b606b88d5e3c7bbb6fb2c65b2449f
+	weak
+[file ".github/instructions/powershell.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/powershell.instructions.md
+	sha = c3869d8c7b6cfe8e955fbdea653bf071094d2f07
+	etag = e12f2114503995173f4f218fff6ad2dd0c4f290b5f9438e0169e58d9eeb8b5a9
+	weak
+[file ".github/instructions/python.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/python.instructions.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 3e17b608efe8455f5153d178824418c93b43bd09462989b3b756df9b195a4806
+	weak
+[file ".github/instructions/quarkus-mcp-server-sse.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/quarkus-mcp-server-sse.instructions.md
+	sha = 47461311487555d29ec3d4c06b1057c751dfda2e
+	etag = 317b2af082b4dccbb878b4cc578db2eb80ca63ac931083a83b94be57b4708f0a
+	weak
+[file ".github/instructions/quarkus.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/quarkus.instructions.md
+	sha = 643d4e77db041daa4d9e40b2525d8cfd979fd02e
+	etag = e503b867af9f0bc314512d6df9e90cd1bbadf9a823b4d62951fd786fb1964445
+	weak
+[file ".github/instructions/reactjs.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/reactjs.instructions.md
+	sha = 4b9e3f2a514be4704daa738315e8c68550889a14
+	etag = 6b68dbb1e778fb29c5c1ca0090e76207bc08e233bc0503247cfaa861948ec708
+	weak
+[file ".github/instructions/ruby-on-rails.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/ruby-on-rails.instructions.md
+	sha = 8ecf9f27a5b591fcac4fd3a2c0824d72446514b6
+	etag = 318f50d487c7f21777a561dc1fb5621e1ddf7714fd3666400ae020dd1abe5899
+	weak
+[file ".github/instructions/security-and-owasp.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/security-and-owasp.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = 101580d97e35974e1d10e116637964860a1df3b0f1a01cab2605267558ce0521
+	weak
+[file ".github/instructions/self-explanatory-code-commenting.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/self-explanatory-code-commenting.instructions.md
+	sha = 11a08206a63c4456daf6fbb9ae723ab348b13c5c
+	etag = 733191ac9e2d681910edc1852b3f3b66ea25abee7ff2385da9e4403a2e856e23
+	weak
+[file ".github/instructions/spec-driven-workflow-v1.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/spec-driven-workflow-v1.instructions.md
+	sha = 7c5d96e5811e5e3988db534e9b98dca0d112d119
+	etag = f8394bc3de9f9f0723da14a97d22b8ccb547174e87e358f6c85ae9fb33314669
+	weak
+[file ".github/instructions/springboot.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/springboot.instructions.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = 9ca9e9945535aa8e94843b7652c3a43fb99c9423ceff4d3fe37021066fa1115d
+	weak
+[file ".github/instructions/sql-sp-generation.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/sql-sp-generation.instructions.md
+	sha = a4546ff4d2aad3a86e0836d2819edcc81ac7e536
+	etag = 0712f09b325a3598d5086c87866b072ddeb00e9efb08e80c5657de3527b1a91e
+	weak
+[file ".github/instructions/taming-copilot.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/taming-copilot.instructions.md
+	sha = 5a0bf6065096b1abaaccc93e03ba2ce7d5767069
+	etag = fc4a03c79bfa64c87d223663bf54fae03412f94039153430fa96de81113786f5
+	weak
+[file ".github/instructions/tanstack-start-shadcn-tailwind.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/tanstack-start-shadcn-tailwind.instructions.md
+	sha = 858c81233f31bf5f160ed0ae44243e47961f4b37
+	etag = 9ce76e2ebabdf722a0576c4391c0a819e20328d6721a8ea28253ba039195eff4
+	weak
+[file ".github/instructions/terraform.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/terraform.instructions.md
+	sha = ce36c8481015772e5926d209f1be2888989dc724
+	etag = 6db18cd5e603630e0c6dc3354f3bd36008f73bede5237005a98dcc03198e286c
+	weak
+[file ".github/instructions/vuejs3.instructions.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/instructions/vuejs3.instructions.md
+	sha = 310a73f5cc72bb8b5f5364888cef42d56ff00aa7
+	etag = a1df2c37f68ed376a0016fe0ceca4a5af4ae6424c79a377c3b696c0a3316fb62
+	weak
+[file ".github/prompts/ai-prompt-engineering-safety-review.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/ai-prompt-engineering-safety-review.prompt.md
+	sha = c321e2a0a205e05fa42d5a5b7c22d88af32665b8
+	etag = 23f012d453254bb48796a774839982d85f1c88e4e3d77b9fbc84af2eee97b661
+	weak
+[file ".github/prompts/architecture-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/architecture-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = 2f3578841e66babf564b1f0be8c864cef98fbb8f2a37e3d7d04c1e05f77dde22
+	weak
+[file ".github/prompts/aspnet-minimal-api-openapi.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/aspnet-minimal-api-openapi.prompt.md
+	sha = 99fb7e177ea1dc375f12fbd8f8e6f8822ccd641c
+	etag = fddd8bb5c268823754a222d07288d68b14ec78601affb5d13924b61ef755144e
+	weak
+[file ".github/prompts/az-cost-optimize.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/az-cost-optimize.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 06f8458a49f4d628bdf9a1025522292a50c1df775a6abc79f3fb32fc16be64db
+	weak
+[file ".github/prompts/azure-resource-health-diagnose.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/azure-resource-health-diagnose.prompt.md
+	sha = ec7b16c56832ed084b1cbb60af08b34948a5e00e
+	etag = 0905c90bfd0e32d19694b16c79504cba13594f517ba0d520e0eda2d277694466
+	weak
+[file ".github/prompts/code-exemplars-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/code-exemplars-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = 648b8ea5b628ac1e868da2f95e277c97f3a01645277df024fdb4a5a29b9cd5b1
+	weak
+[file ".github/prompts/comment-code-generate-a-tutorial.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/comment-code-generate-a-tutorial.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 9ab53a91ea211bbb1eac9da7bc2dff9e85c77697e9af041aa1b5951f72b1af91
+	weak
+[file ".github/prompts/copilot-instructions-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/copilot-instructions-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = 8a75df37fb52e5380f5a673f58fea7446ca706da1779b8b840a29b5119a50bbc
+	weak
+[file ".github/prompts/create-architectural-decision-record.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-architectural-decision-record.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = c7a6dbbd34429c347b477790793bdb9402a6c96edeab521e7c284c4428b2fa2b
+	weak
+[file ".github/prompts/create-github-action-workflow-specification.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-github-action-workflow-specification.prompt.md
+	sha = 42ce6b717a46129d0159a3e592b15d9cbee3a39d
+	etag = bf1d2102076c8b68cd16f0fa416715eccad3f9a78e3742ae2303abb7afd1f83e
+	weak
+[file ".github/prompts/create-github-issue-feature-from-specification.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-github-issue-feature-from-specification.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 9566d714444d0ae6ac02ac92a1aeac60c824000df016328528fa43b7bc43ae77
+	weak
+[file ".github/prompts/create-github-issues-feature-from-implementation-plan.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-github-issues-feature-from-implementation-plan.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = e15465330e6a9c139e0ae45561f02eeb9ed204d5ce855e04ee1eb40a50ad6673
+	weak
+[file ".github/prompts/create-github-issues-for-unmet-specification-requirements.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-github-issues-for-unmet-specification-requirements.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 4187c112f582e63a60c4b295e8eec9f05fb5df0148f0c421ccc233138efdf851
+	weak
+[file ".github/prompts/create-implementation-plan.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-implementation-plan.prompt.md
+	sha = 647a2b43c393b975d1312be15965dfd0f5b8da98
+	etag = 9fc143bab9fb84f91662a56c40772e1a91edf17705499a759bc87a6c4fb9aff4
+	weak
+[file ".github/prompts/create-llms.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-llms.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = c4bb5b2740ee89cb4407f6b05d4e9a8ad83a2a0a23d86230d21e6c9c7ccf96fd
+	weak
+[file ".github/prompts/create-oo-component-documentation.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-oo-component-documentation.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 665f54d6609dc24e85880a82346c3751cc769dc923eb3ba2fa5df471c41a3ea7
+	weak
+[file ".github/prompts/create-readme.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-readme.prompt.md
+	sha = dda354e33fe0b98f81c68327e625f75cd68cfeba
+	etag = d07357dba84c4725647b063bb3a82774f076e574cd2269c9c60542cbbb682cab
+	weak
+[file ".github/prompts/create-specification.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-specification.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = ef707b28632029b66eda931bb2394915e911d34fe12501c962e8df148905ae34
+	weak
+[file ".github/prompts/create-spring-boot-java-project.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-spring-boot-java-project.prompt.md
+	sha = 4daef6589204e4c3c388e6252ca30b5b1e2be5e2
+	etag = 1c5a1795aff16c58b6fb31b0f12cfaabbe7d5d300d7080e9eab5faf74d5e3c3f
+	weak
+[file ".github/prompts/create-spring-boot-kotlin-project.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/create-spring-boot-kotlin-project.prompt.md
+	sha = 79cabf68d486723e0e32f40ea5d9d251b736af49
+	etag = a670e10e990f267f3919cf433bd82b6e27da1c74b0062e78ef75d0ee88b5da52
+	weak
+[file ".github/prompts/csharp-async.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-async.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 2ff1bb702c4c78b4696e827efae726cc95bfef33fdc8dc6f774355b165e780b1
+	weak
+[file ".github/prompts/csharp-docs.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-docs.prompt.md
+	sha = f1c532cf573aef764c4721d5ed4347fa20648631
+	etag = 5cf9823a925dca061bfdba2bd41190c8b76e8b6d54950c2330733476e18dda0a
+	weak
+[file ".github/prompts/csharp-mstest.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-mstest.prompt.md
+	sha = 064bbfe7eb52abd6eaa74e926293772df5e0b1a0
+	etag = b22348c43d8a0a02fbf59f14f163844d2d000066c0de3e2a4cba528c6a7478ac
+	weak
+[file ".github/prompts/csharp-nunit.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-nunit.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 69b6836568b2bdfff8584a33c1823f5e2d5f7cc83185e8ba876fc8821207411e
+	weak
+[file ".github/prompts/csharp-tunit.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-tunit.prompt.md
+	sha = 05f68143388be78781a9c2137cecaadf00f44d9c
+	etag = 9616cf8dd0f740e177066c22fbad93181f328b2fb74e95cb82473dfb79ab7871
+	weak
+[file ".github/prompts/csharp-xunit.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/csharp-xunit.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 557286b7f0bea55bcfea24395713ed3b99a7bb97e65d4f9caa1e2228ce2f4598
+	weak
+[file ".github/prompts/dotnet-best-practices.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/dotnet-best-practices.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 0ecc755887b61d790c01f92d6fd782059c38815f36bbcdce2b5e5e5df84f305b
+	weak
+[file ".github/prompts/dotnet-design-pattern-review.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/dotnet-design-pattern-review.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = ba2e62b05920a30c312f33ab96dd816e697a6ab0df2247076299b27ceafd0b8c
+	weak
+[file ".github/prompts/ef-core.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/ef-core.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 0ccc5ff3194877b350bdca425d8afa0df1d93f1bc1a065a70a8f4d47eafde08a
+	weak
+[file ".github/prompts/folder-structure-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/folder-structure-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = 548485b23788d387c52016706c34884afa0685fc15ebee5b103d82275452fe3f
+	weak
+[file ".github/prompts/gen-specs-as-issues.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/gen-specs-as-issues.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = 4bcff500658d31537e81cb578141454e4983a75a5f304158eb5af0fdc93fc579
+	weak
+[file ".github/prompts/git-flow-branch-creator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/git-flow-branch-creator.prompt.md
+	sha = 653d283af9bda9f1b12c88eca91c281ecdc3e67b
+	etag = 31cd5db314913596279901c47229dbf5cae5c0a8de3118a88148a857814ed30f
+	weak
+[file ".github/prompts/java-docs.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/java-docs.prompt.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = 2113810f935b6e82a8dc8564a48a6b8d1f33e0f6aa042691fb88be8cd1809aa7
+	weak
+[file ".github/prompts/java-junit.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/java-junit.prompt.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = 4e628ecd91a4a6d6681df525852842410c381eb56e2f948290a846f190d9045d
+	weak
+[file ".github/prompts/java-springboot.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/java-springboot.prompt.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = 6f8e6f6f8a2320477be1b4128c97e30bd188a196f819eb2a1f4c571b5f810caa
+	weak
+[file ".github/prompts/javascript-typescript-jest.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/javascript-typescript-jest.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = e43dd8628fdf3ce85f4b275b41e3e162b796c07e274e0f1a7c7e210f5319cac6
+	weak
+[file ".github/prompts/kotlin-springboot.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/kotlin-springboot.prompt.md
+	sha = 1ba5cc78ff116c216b353373feda878d206dc359
+	etag = 64eb026b5dbecb72c5741f1eba042594b603cc5c938d04ebb3b63eecf31c9d19
+	weak
+[file ".github/prompts/multi-stage-dockerfile.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/multi-stage-dockerfile.prompt.md
+	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
+	etag = f41543bfc8d9d3eb17d40b001ea56dee574e87c02cf9a35dff4dccac54f39ed1
+	weak
+[file ".github/prompts/my-issues.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/my-issues.prompt.md
+	sha = 04c5757e2c8be71ea70b8947aa199d59a572e91f
+	etag = aa9bb449498c7d3182c3a1d42db94e01146c604a885e94ab26b85ad528b242ce
+	weak
+[file ".github/prompts/my-pull-requests.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/my-pull-requests.prompt.md
+	sha = 04c5757e2c8be71ea70b8947aa199d59a572e91f
+	etag = b83fa02f8d20a994fb2f6290994f767bfd3c29fb5c2a78811a4ddbdb869df3be
+	weak
+[file ".github/prompts/next-intl-add-language.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/next-intl-add-language.prompt.md
+	sha = 6c2d8e014733e0c17f1d9b4fc8a8719cce60a49d
+	etag = af917a27307d073785dae4201ad2f5a79e09976b6d0e8f83b6bcf5b770d5bccf
+	weak
+[file ".github/prompts/playwright-automation-fill-in-form.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/playwright-automation-fill-in-form.prompt.md
+	sha = edb5e169222b84f39924dd401fea65293e84601c
+	etag = 15eb99ccade78a1b033c704cee16e0e170604289eea1ecb095b89c7bc33d84ec
+	weak
+[file ".github/prompts/playwright-explore-website.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/playwright-explore-website.prompt.md
+	sha = edb5e169222b84f39924dd401fea65293e84601c
+	etag = abe32981de90f64e65ec76c885c1a90b967cdce35814e3f09593baff0ddf4945
+	weak
+[file ".github/prompts/playwright-generate-test.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/playwright-generate-test.prompt.md
+	sha = edb5e169222b84f39924dd401fea65293e84601c
+	etag = c6392d3ab718d1114a466f36aa9869bcb1f28570a362691700b44d794b4bf735
+	weak
+[file ".github/prompts/postgresql-code-review.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/postgresql-code-review.prompt.md
+	sha = bb64aa62c44cb47961493d974b6242354683c8a2
+	etag = b6d1fb346db96df533613fc2e4c82e218ee782acb465b68b7168e27664d85366
+	weak
+[file ".github/prompts/postgresql-optimization.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/postgresql-optimization.prompt.md
+	sha = bb64aa62c44cb47961493d974b6242354683c8a2
+	etag = 1bc70aecc8392a6a8be2f97ffcd15dc7ed03142d45097abc463dcbdbc1e87883
+	weak
+[file ".github/prompts/project-workflow-analysis-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/project-workflow-analysis-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = 00afce55e794498b653b1efbc8bc3eec2a118ae5adb811463f4a9f933b30dcb8
+	weak
+[file ".github/prompts/prompt-builder.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/prompt-builder.prompt.md
+	sha = 33bbe2b18b6d1e9f2d0ee5cb90d2eedc88a786b3
+	etag = fa92f69236ff7aad6025a4d351f1c91cb426518321eba2056cf57cd66eec2e88
+	weak
+[file ".github/prompts/readme-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/readme-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = c057ca454bba340855b0cd5d0584b59ae235dd370efefa3fe50b78d9dc9a2288
+	weak
+[file ".github/prompts/repo-story-time.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/repo-story-time.prompt.md
+	sha = 83a90b29d413a19b9791fe8fbd9cc80b19b48334
+	etag = 255d3f993b084a3978b25251f382edb2e525903ead6e299803a93184fa578d68
+	weak
+[file ".github/prompts/review-and-refactor.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/review-and-refactor.prompt.md
+	sha = 891f2325fc8de44e9a5ef3580c19aaec86716c41
+	etag = 4eb01ee4b91460c288ea092f0360bb7bc0ee20c61a20beceadf6b4808b1789b7
+	weak
+[file ".github/prompts/sql-code-review.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/sql-code-review.prompt.md
+	sha = bb64aa62c44cb47961493d974b6242354683c8a2
+	etag = 166a1178417ae7fc0cc5c07e689fa60748a533466b5fab41b307398fc9a6d358
+	weak
+[file ".github/prompts/sql-optimization.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/sql-optimization.prompt.md
+	sha = bb64aa62c44cb47961493d974b6242354683c8a2
+	etag = 8a0348b525ca058eebcaf3d186d14deb5c63e30e25d7a557e1d4f5b43ee09e6f
+	weak
+[file ".github/prompts/suggest-awesome-github-copilot-chatmodes.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/suggest-awesome-github-copilot-chatmodes.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 951b7a2bec65378dadc12b425a0fb3705f19414d76861cceddd19e6e4f10ba24
+	weak
+[file ".github/prompts/suggest-awesome-github-copilot-prompts.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/suggest-awesome-github-copilot-prompts.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 1eeb41151446fe2bbec1c1e100579d528f891d2cbdd570d39ebecc592b8a7276
+	weak
+[file ".github/prompts/technology-stack-blueprint-generator.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/technology-stack-blueprint-generator.prompt.md
+	sha = d4a0af0c7bb1f846e562eec0467f7e3ed34b8f8d
+	etag = f53e53bbf4bc634ad6964b1ca446d6c74702f69b62293f411b743ab50df29e37
+	weak
+[file ".github/prompts/update-avm-modules-in-bicep.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-avm-modules-in-bicep.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 560abfd7ab434ce69bc32a69ac7c4dc1ce9ae831c6c8549e8993b13cfb9ce0a3
+	weak
+[file ".github/prompts/update-implementation-plan.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-implementation-plan.prompt.md
+	sha = 647a2b43c393b975d1312be15965dfd0f5b8da98
+	etag = 6345d4cc4f177cc4ed8c67f7e29a2e16462c502400703f206b74c05ada3220b6
+	weak
+[file ".github/prompts/update-llms.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-llms.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = b1a1519437f562930ed509b26c6d493fbed1648dfca5e47487d44783ab6553a7
+	weak
+[file ".github/prompts/update-markdown-file-index.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-markdown-file-index.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = 7942018f3e3018f6e1abfe547da64c4af6a86b78be41304c0f03b207865818d3
+	weak
+[file ".github/prompts/update-oo-component-documentation.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-oo-component-documentation.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = bd6a4313a3c80ccb838a723482611cf6a7b6104ccca5f35ebf5125b6e432b5cc
+	weak
+[file ".github/prompts/update-specification.prompt.md"]
+	url = https://github.com/github/awesome-copilot/blob/main/prompts/update-specification.prompt.md
+	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
+	etag = c04a3ba47dc582074a02cb68323e177adc309a2e6d2989bc1280345adcf9779d
 	weak
