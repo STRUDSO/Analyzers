@@ -45,7 +45,7 @@ gh-cp-mjo:
     dotnet file add https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/plan.chatmode.md .github/chatmodes/.
 
 dotnet-init:
-    dotnet new globaljson
+    dotnet new globaljson --roll-forward feature
     dotnet new gitignore
     dotnet new editorconfig
     dotnet new tool-manifest
