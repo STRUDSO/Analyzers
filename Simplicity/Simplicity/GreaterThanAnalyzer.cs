@@ -1,3 +1,4 @@
+// Documentation: https://github.com/STRUDSO/Analyzers/blob/main/docs/Rules/SIMP1001.md
 using System.Collections.Immutable;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
@@ -25,7 +26,9 @@ namespace Simplicity
             Category,
             DiagnosticSeverity.Warning,
             isEnabledByDefault: true,
-            description: Description);
+            description: Description,
+            helpLinkUri: RuleIdentifiers.GetHelpUri(RuleIdentifiers.GreaterThan)
+            );
 
         public override ImmutableArray<DiagnosticDescriptor> SupportedDiagnostics => ImmutableArray.Create(Rule);
 

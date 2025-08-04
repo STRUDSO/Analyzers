@@ -2,7 +2,6 @@
 
 ### New Rules
 
-| Rule ID | Category | Severity | Notes                                            |
-|---------|----------|----------|--------------------------------------------------|
-| AB0001  | Naming   | Warning  | Type names should not contain the company name.  |
-| AB0002  | Usage    | Warning  | The speed must be lower than the Speed of Light. |
+| Rule ID | Category | Severity | Notes |
+|---------|----------|----------|-------|
+| SIMP1001 | Syntax | Warning | Detects all usages of the greater than sign ('>') in C# code. |
