@@ -2,7 +2,22 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <IsPackable>false</IsPackable>
+    <IsPackable>true</IsPackable>
+    
+    <!-- NuGet package metadata -->
+    <PackageId>Simplicity.Analyzers</PackageId>
+    <PackageVersion>0.0.1.0</PackageVersion>
+    <Title>Simplicity Roslyn Analyzer</Title>
+    <Authors>STRUDSO</Authors>
+    <Company>STRUDSO</Company>
+    <Description>Sample Roslyn analyzers and code fix providers for C# projects. Includes a greater-than analyzer and code fix.</Description>
+    <PackageTags>roslyn;analyzer;codefix;dotnet;C#</PackageTags>
+    <PackageProjectUrl>https://github.com/STRUDSO/Analyzers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/STRUDSO/Analyzers</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Copyright © 2025 STRUDSO</Copyright>
+
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
 
@@ -14,6 +29,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <!-- NuGet packaging assets -->
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.4">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
