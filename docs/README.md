@@ -2,9 +2,9 @@
 
 This document lists the rules included in the Simplicity Roslyn Analyzer package.
 
-| ID         | Category | Title                        | Enabled | Code Fix |
-|------------|----------|------------------------------|---------|----------|
-| SIMP1001   | Syntax   | Usage of '>' is not allowed  |   ✔️    |    ✔️    |
+| ID           | Category | Title                        | Enabled | Code Fix |
+|--------------|----------|------------------------------|---------|----------|
+| [SIMP1001](https://github.com/STRUDSO/Analyzers/blob/main/docs/Rules/SIMP1001.md) | Syntax   | Usage of '>' is not allowed  |   ✔️    |    ✔️    | 
 
 ## Rule Details
 

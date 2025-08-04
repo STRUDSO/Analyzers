@@ -1,5 +1,18 @@
 # Consolidated Learnings
 
+## CI/CD & NuGet Publishing
+
+### Modular, Secure GitHub Actions for NuGet
+- Use a modular workflow with separate jobs for build, validation, test, and deploy. This increases reliability, debuggability, and maintainability.
+- Always upload the `.nupkg` as an artifact before validation and deployment. This enables inspection, reuse, and separation of concerns between jobs.
+- Use `Meziantou.Framework.NuGetPackageValidation.Tool` for robust, modern NuGet package validation. This helps catch metadata and content issues early.
+- Use `--skip-duplicate` with `dotnet nuget push` to avoid errors when re-publishing the same version.
+- Store the NuGet API key as a GitHub secret (`NUGET_APIKEY`) and never hardcode secrets in workflows.
+- Use PowerShell (`pwsh`) as the shell for cross-platform compatibility in .NET workflows.
+- Trigger workflows on push, PR, release, and manual dispatch for full coverage and flexibility.
+- The pattern is easily extensible for additional jobs (e.g., SBOM, CodeQL, supply chain security) as needs grow.
+- Document the workflow and add a status badge in the repository README for discoverability and transparency.
+
 ## Roslyn Analyzer Development
 
 ### Diagnostic Location
