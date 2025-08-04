@@ -203,11 +203,6 @@
 	sha = c983292741e91ea72d844411b42a05e1022219b9
 	etag = a74fdf2fa3b4380cc7a77b38722265f23f120f518903d7609c397503fad91989
 	weak
-[file ".github/chatmodes/plan.chatmode.md"]
-	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/plan.chatmode.md
-	sha = 32589ba72c2f094bce7ee3a6bddff93250d6c3a6
-	etag = 823d2d5ef460f564fa9026c5f30836a1f7ba220fa9698c1def6e39ae2537b008
-	weak
 [file ".github/chatmodes/planner.chatmode.md"]
 	url = https://github.com/github/awesome-copilot/blob/main/chatmodes/planner.chatmode.md
 	sha = 6fb794bc7917fff6a259ae3ba72cd1fad350c0bf
@@ -880,3 +875,9 @@
 	sha = e1c7c7a50e975cdf35d40c6a81f19f7ddb267e40
 	etag = c04a3ba47dc582074a02cb68323e177adc309a2e6d2989bc1280345adcf9779d
 	weak
+[file ".github/chatmodes/research.chatmode.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/research.chatmode.md
+	etag = 6bbd986fce2e801605118bc29770dba554a085da63cbf5fcbaeff162c0676c4f
+[file ".github/chatmodes/plan.chatmode.md"]
+	url = https://github.com/guidmaster/MjoMeet/blob/master/.github/chatmodes/plan.chatmode.md
+	etag = 03465aa9384f6079ae8d8a1c9d9ebc52da47b156793fc9a10de0abd48abbe58c

@@ -31,10 +31,6 @@
 - Confirmed all tests pass and the analyzer is discoverable.
 
 ## Key Learnings & Insights
-- **Code Fix Trivia Handling**: When flipping operands in a code fix, trivia (comments/whitespace) is attached to the syntax node, not the identifier. Tests must expect trivia to move with the node, not the logical variable.
-- **Test Infrastructure**: For analyzer+code fix tests, use `CodeFixVerifier<Analyzer, CodeFixProvider>`, not `AnalyzerVerifier<Analyzer>`, to access `VerifyCodeFixAsync`.
-- **Test Inputs**: Always declare variables in test code to avoid compiler errors that can interfere with diagnostic expectations.
-- **Prompt-Driven Refactoring**: When the prompt requires a specific transformation (e.g., flip operands and change operator), ensure the code fix and tests match the exact semantics and trivia model of Roslyn.
 - **Diagnostic Location**: Always verify the exact column reported by the analyzer; test expectations may need adjustment.
 - **Accessibility**: Analyzer classes must be `public` for test projects to access them.
 - **Test Patterns**: Reusing the Verifier pattern from other tests ensures consistency and reduces boilerplate.
